@@ -1,1 +1,6 @@
 hii,im learning git
+java
+jdbc
+hibernate
+spring
+aws
